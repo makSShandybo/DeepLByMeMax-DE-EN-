@@ -1,2 +1,2 @@
 # DeepLByMeMax-DE-EN-
-Создание архитетуры трансформера Seq2Seq для создания переводчика с немецкого на английский язык (Она была создана, но обучена совсем немного, так как мощностей доступных в Kaggle недостаточно для модели такого масштаба, так что переводит она не очень:) ) 
+Seq2Seq's Transformer Architecture creation to create a German to English translator (It was created, but trained quite a bit, as the power available in Kaggle is not enough for a model of this scale, so it doesn't translate very well :)) ) 
